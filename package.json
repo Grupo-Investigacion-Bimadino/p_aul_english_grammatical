@@ -1,0 +1,23 @@
+{
+  "name": "p_aul_english_grammatical",
+  "version": "1.0.0",
+  "description": "Andreina Ojeda \r  Johan Mercado\r  Maria Ines Bedoya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grupo-Investigacion-Bimadino/p_aul_english_grammatical.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grupo-Investigacion-Bimadino/p_aul_english_grammatical/issues"
+  },
+  "homepage": "https://github.com/Grupo-Investigacion-Bimadino/p_aul_english_grammatical#readme",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
+}
